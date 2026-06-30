@@ -63,11 +63,3 @@ Development
 - Tests: add tests under `tests/` and run with `pytest`.
 - Linting and formatting: use `flake8` and `black` as configured.
 
-Contributing
-- Fork the repo, create a feature branch, and open a PR with tests and documentation updates.
-
-License
-- MIT (or add your preferred license).
-
-Contact
-- For questions, open an issue or contact the maintainers.
